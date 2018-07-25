@@ -1,0 +1,19 @@
+
+.button {
+  box-sizing: border-box;
+  padding:0;
+  position:relative;
+  left: 20px;
+  font-size:40px;
+  cursor: pointer;
+}
+
+
+h1 {
+  font-size: 95px;
+  font-style: italic;
+  text-transform: capitalize;
+  text-align: center;
+  font-family: "monospace",cursive, serif;
+  letter-spacing: .3rem;
+}
